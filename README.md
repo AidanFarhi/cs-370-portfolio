@@ -4,7 +4,7 @@
 
 The purpose of this project was to develop an intelligent agent capable of finding the most
 optimal path to the treasure within a treasure hunt game.
-The code that was provided included a class called `TreasureMaze` which represented the environmet, including a maze object implemented as matrix.
+The code that was provided included a class called `TreasureMaze` which represented the environment, including a maze object implemented as matrix.
 Additionally, there was a class named `GameExperience` which stored a memory of all game states between the start and end of a given game.
 There was also a Jupyter notebook provided which contained the necessary library imports, initial variables, and several helper functions.
 
@@ -25,7 +25,7 @@ What is known about the problem? What is unknown? What are the constraints? Who 
 Once the problem is scoped out, I start to research possible solutions. Is there an existing solution? If not, are there similar solutions to related problems?
 What is the most straightforward or "brute-force" way to solve this problem?
 
-After an initial working solution is developed, next comes optimization. How can this be made more efficient? What about the solution is repetive or unecessary?
+After an initial working solution is developed, next comes optimization. How can this be made more efficient? What about the solution is repetitive or unecessary?
 
 By following this series of steps, I am able to usually come up with solutions to most solvable problems.
 
